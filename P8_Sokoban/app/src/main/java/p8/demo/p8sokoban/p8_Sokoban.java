@@ -4,7 +4,7 @@ import android.app.Activity;
 import android.os.Bundle;
 import android.view.View;
 
-// declaration de notre activity héritée de Activity
+// declaration de notre activity hrite de Activity
 public class p8_Sokoban extends Activity {
 
     private SokobanView mSokobanView;	
@@ -14,9 +14,9 @@ public class p8_Sokoban extends Activity {
     public void onCreate(Bundle savedInstanceState) {
         // initialise notre activity avec le constructeur parent    	
         super.onCreate(savedInstanceState);
-        // charge le fichier main.xml comme vue de l'activité
+        // charge le fichier main.xml comme vue de l'activit
         setContentView(R.layout.main);
-        // recuperation de la vue une voie cree à partir de son id
+        // recuperation de la vue une voie cree  partir de son id
         mSokobanView = (SokobanView)findViewById(R.id.SokobanView);
         // rend visible la vue
         mSokobanView.setVisibility(View.VISIBLE);      

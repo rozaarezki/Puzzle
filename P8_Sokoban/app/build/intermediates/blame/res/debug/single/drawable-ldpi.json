@@ -1,38 +1,38 @@
 [
     {
-        "merged": "/home/roza/Documents/android/projet/Puzzle-Attack/P8_Sokoban2/app/build/intermediates/res/merged/debug/drawable-ldpi/zone_03.png",
-        "source": "/home/roza/Documents/android/projet/Puzzle-Attack/P8_Sokoban2/app/src/main/res/drawable-ldpi/zone_03.png"
+        "merged": "/home/roza/Documents/android/projet/Puzzle-Attack/P8_Sokoban/app/build/intermediates/res/merged/debug/drawable-ldpi/perso.png",
+        "source": "/home/roza/Documents/android/projet/Puzzle-Attack/P8_Sokoban/app/src/main/res/drawable-ldpi/perso.png"
     },
     {
-        "merged": "/home/roza/Documents/android/projet/Puzzle-Attack/P8_Sokoban2/app/build/intermediates/res/merged/debug/drawable-ldpi/icon.png",
-        "source": "/home/roza/Documents/android/projet/Puzzle-Attack/P8_Sokoban2/app/src/main/res/drawable-ldpi/icon.png"
+        "merged": "/home/roza/Documents/android/projet/Puzzle-Attack/P8_Sokoban/app/build/intermediates/res/merged/debug/drawable-ldpi/block.png",
+        "source": "/home/roza/Documents/android/projet/Puzzle-Attack/P8_Sokoban/app/src/main/res/drawable-ldpi/block.png"
     },
     {
-        "merged": "/home/roza/Documents/android/projet/Puzzle-Attack/P8_Sokoban2/app/build/intermediates/res/merged/debug/drawable-ldpi/block.png",
-        "source": "/home/roza/Documents/android/projet/Puzzle-Attack/P8_Sokoban2/app/src/main/res/drawable-ldpi/block.png"
+        "merged": "/home/roza/Documents/android/projet/Puzzle-Attack/P8_Sokoban/app/build/intermediates/res/merged/debug/drawable-ldpi/diamant.png",
+        "source": "/home/roza/Documents/android/projet/Puzzle-Attack/P8_Sokoban/app/src/main/res/drawable-ldpi/diamant.png"
     },
     {
-        "merged": "/home/roza/Documents/android/projet/Puzzle-Attack/P8_Sokoban2/app/build/intermediates/res/merged/debug/drawable-ldpi/vide.png",
-        "source": "/home/roza/Documents/android/projet/Puzzle-Attack/P8_Sokoban2/app/src/main/res/drawable-ldpi/vide.png"
+        "merged": "/home/roza/Documents/android/projet/Puzzle-Attack/P8_Sokoban/app/build/intermediates/res/merged/debug/drawable-ldpi/zone_04.png",
+        "source": "/home/roza/Documents/android/projet/Puzzle-Attack/P8_Sokoban/app/src/main/res/drawable-ldpi/zone_04.png"
     },
     {
-        "merged": "/home/roza/Documents/android/projet/Puzzle-Attack/P8_Sokoban2/app/build/intermediates/res/merged/debug/drawable-ldpi/diamant.png",
-        "source": "/home/roza/Documents/android/projet/Puzzle-Attack/P8_Sokoban2/app/src/main/res/drawable-ldpi/diamant.png"
+        "merged": "/home/roza/Documents/android/projet/Puzzle-Attack/P8_Sokoban/app/build/intermediates/res/merged/debug/drawable-ldpi/vide.png",
+        "source": "/home/roza/Documents/android/projet/Puzzle-Attack/P8_Sokoban/app/src/main/res/drawable-ldpi/vide.png"
     },
     {
-        "merged": "/home/roza/Documents/android/projet/Puzzle-Attack/P8_Sokoban2/app/build/intermediates/res/merged/debug/drawable-ldpi/zone_04.png",
-        "source": "/home/roza/Documents/android/projet/Puzzle-Attack/P8_Sokoban2/app/src/main/res/drawable-ldpi/zone_04.png"
+        "merged": "/home/roza/Documents/android/projet/Puzzle-Attack/P8_Sokoban/app/build/intermediates/res/merged/debug/drawable-ldpi/zone_02.png",
+        "source": "/home/roza/Documents/android/projet/Puzzle-Attack/P8_Sokoban/app/src/main/res/drawable-ldpi/zone_02.png"
     },
     {
-        "merged": "/home/roza/Documents/android/projet/Puzzle-Attack/P8_Sokoban2/app/build/intermediates/res/merged/debug/drawable-ldpi/zone_01.png",
-        "source": "/home/roza/Documents/android/projet/Puzzle-Attack/P8_Sokoban2/app/src/main/res/drawable-ldpi/zone_01.png"
+        "merged": "/home/roza/Documents/android/projet/Puzzle-Attack/P8_Sokoban/app/build/intermediates/res/merged/debug/drawable-ldpi/icon.png",
+        "source": "/home/roza/Documents/android/projet/Puzzle-Attack/P8_Sokoban/app/src/main/res/drawable-ldpi/icon.png"
     },
     {
-        "merged": "/home/roza/Documents/android/projet/Puzzle-Attack/P8_Sokoban2/app/build/intermediates/res/merged/debug/drawable-ldpi/perso.png",
-        "source": "/home/roza/Documents/android/projet/Puzzle-Attack/P8_Sokoban2/app/src/main/res/drawable-ldpi/perso.png"
+        "merged": "/home/roza/Documents/android/projet/Puzzle-Attack/P8_Sokoban/app/build/intermediates/res/merged/debug/drawable-ldpi/zone_01.png",
+        "source": "/home/roza/Documents/android/projet/Puzzle-Attack/P8_Sokoban/app/src/main/res/drawable-ldpi/zone_01.png"
     },
     {
-        "merged": "/home/roza/Documents/android/projet/Puzzle-Attack/P8_Sokoban2/app/build/intermediates/res/merged/debug/drawable-ldpi/zone_02.png",
-        "source": "/home/roza/Documents/android/projet/Puzzle-Attack/P8_Sokoban2/app/src/main/res/drawable-ldpi/zone_02.png"
+        "merged": "/home/roza/Documents/android/projet/Puzzle-Attack/P8_Sokoban/app/build/intermediates/res/merged/debug/drawable-ldpi/zone_03.png",
+        "source": "/home/roza/Documents/android/projet/Puzzle-Attack/P8_Sokoban/app/src/main/res/drawable-ldpi/zone_03.png"
     }
 ]

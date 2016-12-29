@@ -1,6 +1,10 @@
 [
     {
-        "merged": "/home/roza/Documents/android/projet/Puzzle-Attack/P8_Sokoban2/app/build/intermediates/res/merged/debug/layout/main.xml",
-        "source": "/home/roza/Documents/android/projet/Puzzle-Attack/P8_Sokoban2/app/src/main/res/layout/main.xml"
+        "merged": "/home/roza/Documents/android/projet/Puzzle-Attack/P8_Sokoban/app/build/intermediates/res/merged/debug/layout/menu.xml",
+        "source": "/home/roza/Documents/android/projet/Puzzle-Attack/P8_Sokoban/app/src/main/res/layout/menu.xml"
+    },
+    {
+        "merged": "/home/roza/Documents/android/projet/Puzzle-Attack/P8_Sokoban/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/home/roza/Documents/android/projet/Puzzle-Attack/P8_Sokoban/app/src/main/res/layout/main.xml"
     }
 ]

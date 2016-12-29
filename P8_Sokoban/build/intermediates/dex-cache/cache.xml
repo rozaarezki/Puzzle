@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/roza/Documents/android/projet/Puzzle-Attack/P8_Sokoban/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8d883ade5075b381ff43ec1b1bf355eeab3216c5">
+        <dex dex="/home/roza/Documents/android/projet/Puzzle-Attack/P8_Sokoban/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_13c85466cce98bdab591dc57717fdbd1b52e7046/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/roza/Documents/android/projet/Puzzle-Attack/P8_Sokoban/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2516095a911da2cd5b2a99b172a0f897955c8d62">
+        <dex dex="/home/roza/Documents/android/projet/Puzzle-Attack/P8_Sokoban/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a1bc95bb39cb5f687b11006f3c0f5165e12a83f3/classes.dex" />
+    </item>
+
+</items>

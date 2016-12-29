@@ -16,24 +16,37 @@ public final class R {
         public static final int down=0x7f020002;
         public static final int icon=0x7f020003;
         public static final int left=0x7f020004;
-        public static final int perso=0x7f020005;
-        public static final int right=0x7f020006;
-        public static final int up=0x7f020007;
-        public static final int vide=0x7f020008;
-        public static final int win=0x7f020009;
-        public static final int zone_01=0x7f02000a;
-        public static final int zone_02=0x7f02000b;
-        public static final int zone_03=0x7f02000c;
-        public static final int zone_04=0x7f02000d;
+        public static final int mybutton=0x7f020005;
+        public static final int perso=0x7f020006;
+        public static final int right=0x7f020007;
+        public static final int up=0x7f020008;
+        public static final int vide=0x7f020009;
+        public static final int win=0x7f02000a;
+        public static final int zone_01=0x7f02000b;
+        public static final int zone_02=0x7f02000c;
+        public static final int zone_03=0x7f02000d;
+        public static final int zone_04=0x7f02000e;
     }
     public static final class id {
-        public static final int SokobanView=0x7f050000;
+        public static final int SokobanView=0x7f060000;
+        public static final int apropos=0x7f060003;
+        public static final int jouer=0x7f060001;
+        public static final int off=0x7f060008;
+        public static final int on=0x7f060007;
+        public static final int principe=0x7f060002;
+        public static final int quitter=0x7f060004;
+        public static final int son=0x7f060006;
+        public static final int textView=0x7f060005;
     }
     public static final class layout {
         public static final int main=0x7f030000;
+        public static final int menu=0x7f030001;
+    }
+    public static final class raw {
+        public static final int son=0x7f040000;
     }
     public static final class string {
-        public static final int app_name=0x7f040000;
-        public static final int hello=0x7f040001;
+        public static final int app_name=0x7f050000;
+        public static final int hello=0x7f050001;
     }
 }

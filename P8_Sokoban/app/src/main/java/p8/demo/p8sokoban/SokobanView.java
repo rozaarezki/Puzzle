@@ -27,7 +27,7 @@ public class SokobanView extends SurfaceView implements SurfaceHolder.Callback, 
     private Bitmap 		right; 
     private Bitmap 		win; 
     
-	// Declaration des objets Ressources et Context permettant d'accéder aux ressources de notre application et de les charger    
+	// Declaration des objets Ressources et Context permettant d'accder aux ressources de notre application et de les charger
     private Resources 	mRes;    
     private Context 	mContext;
 
@@ -35,8 +35,8 @@ public class SokobanView extends SurfaceView implements SurfaceHolder.Callback, 
     int[][] carte;
     
     // ancres pour pouvoir centrer la carte du jeu
-    int        carteTopAnchor;                   // coordonnées en Y du point d'ancrage de notre carte
-    int        carteLeftAnchor;                  // coordonnées en X du point d'ancrage de notre carte
+    int        carteTopAnchor;                   // coordonnes en Y du point d'ancrage de notre carte
+    int        carteLeftAnchor;                  // coordonnes en X du point d'ancrage de notre carte
 
     // taille de la carte
     static final int    carteWidth    = 10;
@@ -88,7 +88,7 @@ public class SokobanView extends SurfaceView implements SurfaceHolder.Callback, 
         int xPlayer = 4;
         int yPlayer = 1;
         
-        /* compteur et max pour animer les zones d'arrivée des diamants */
+        /* compteur et max pour animer les zones d'arrive des diamants */
         int currentStepZone = 0;
         int maxStepZone     = 4;  
 
@@ -222,7 +222,7 @@ public class SokobanView extends SurfaceView implements SurfaceHolder.Callback, 
         }
     }
 
-    // permet d'identifier si la partie est gagnee (tous les diamants à leur place)
+    // permet d'identifier si la partie est gagnee (tous les diamants  leur place)
     private boolean isWon() {
         for (int i=0; i< 4; i++) {
             if (!IsCell(diamants[i][1], diamants[i][0], CST_zone)) {
@@ -263,8 +263,8 @@ public class SokobanView extends SurfaceView implements SurfaceHolder.Callback, 
     }    
 
     /**
-     * run (run du thread créé)
-     * on endort le thread, on modifie le compteur d'animation, on prend la main pour dessiner et on dessine puis on libère le canvas
+     * run (run du thread cr)
+     * on endort le thread, on modifie le compteur d'animation, on prend la main pour dessiner et on dessine puis on libre le canvas
      */
     public void run() {
     	Canvas c = null;
@@ -315,7 +315,7 @@ public class SokobanView extends SurfaceView implements SurfaceHolder.Callback, 
         return false;
     }
 
-    // met à jour la position d'un diamant
+    // met jour la position d'un diamant
     private void UpdateDiamant(int x, int y, int new_x, int new_y) {
         for (int i=0; i< 4; i++) {
             if ((diamants[i][1] == x) && (diamants[i][0] == y)) {
