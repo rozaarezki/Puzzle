@@ -11,21 +11,27 @@ public final class R {
     public static final class attr {
     }
     public static final class drawable {
-        public static final int block=0x7f020000;
-        public static final int diamant=0x7f020001;
-        public static final int down=0x7f020002;
-        public static final int icon=0x7f020003;
-        public static final int left=0x7f020004;
-        public static final int mybutton=0x7f020005;
-        public static final int perso=0x7f020006;
-        public static final int right=0x7f020007;
-        public static final int up=0x7f020008;
-        public static final int vide=0x7f020009;
-        public static final int win=0x7f02000a;
-        public static final int zone_01=0x7f02000b;
-        public static final int zone_02=0x7f02000c;
-        public static final int zone_03=0x7f02000d;
-        public static final int zone_04=0x7f02000e;
+        public static final int bleu=0x7f020000;
+        public static final int block=0x7f020001;
+        public static final int diamant=0x7f020002;
+        public static final int down=0x7f020003;
+        public static final int fond=0x7f020004;
+        public static final int icon=0x7f020005;
+        public static final int left=0x7f020006;
+        public static final int mybutton=0x7f020007;
+        public static final int orange=0x7f020008;
+        public static final int perso=0x7f020009;
+        public static final int right=0x7f02000a;
+        public static final int rouge=0x7f02000b;
+        public static final int up=0x7f02000c;
+        public static final int vert=0x7f02000d;
+        public static final int vide=0x7f02000e;
+        public static final int vide1=0x7f02000f;
+        public static final int win=0x7f020010;
+        public static final int zone_01=0x7f020011;
+        public static final int zone_02=0x7f020012;
+        public static final int zone_03=0x7f020013;
+        public static final int zone_04=0x7f020014;
     }
     public static final class id {
         public static final int SokobanView=0x7f060000;

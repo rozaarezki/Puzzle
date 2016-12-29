@@ -1,23 +1,16 @@
 package p8.demo.p8sokoban;
 
 import android.app.Activity;
+import android.media.MediaPlayer;
+import android.os.Bundle;
+import android.view.View;
 import android.app.AlertDialog;
 import android.app.Dialog;
 import android.content.DialogInterface;
 import android.content.Intent;
-import android.content.SharedPreferences;
-import android.media.MediaPlayer;
-import android.os.Bundle;
-import android.view.View;
 import android.widget.Button;
-import android.widget.CompoundButton;
-import android.widget.RadioButton;
 import android.widget.RadioGroup;
-
-import android.widget.TextView;
-import android.widget.Toast;
-
-import java.io.IOException;
+import android.widget.RadioButton;
 
 /**
  * Created by roza on 27/12/2016
@@ -26,7 +19,7 @@ public class Menu  extends Activity {
 
     public Button jouer;
     public Button apropos;
-    public Button principe;
+    public Button regle;
     public Button quitter;
     public RadioGroup son;
     public RadioButton on;
@@ -78,14 +71,14 @@ public class Menu  extends Activity {
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
-        // initialise notre activity avec le constructeur parent
+
         super.onCreate(savedInstanceState);
-        // charge le fichier main.xml comme vue de l'activit�
+
         setContentView(R.layout.menu);
-        // recuperation de la vue une voie cree � partir de son id
+
         jouer = (Button) findViewById(R.id.jouer);
         apropos = (Button) findViewById(R.id.apropos);
-        principe = (Button) findViewById(R.id.principe);
+        regle = (Button) findViewById(R.id.principe);
         son = (RadioGroup) findViewById(R.id.son);
         quitter= (Button) findViewById(R.id.quitter);
         on= (RadioButton)findViewById(R.id.on);
@@ -121,7 +114,7 @@ public class Menu  extends Activity {
             }
         });
 
-        principe.setOnClickListener(new View.OnClickListener() {
+        regle.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 showDialog(DIALOG_ALERT);
@@ -144,15 +137,6 @@ public class Menu  extends Activity {
         });
     }
 
-    public void onResume(Bundle savedInstanceState){
-        super.onResume();
-    }
-    public void onStop(){
-        super.onStop();
-        if (stopmusic) {
-            musique.pause();
-        }
-    }
     public void onRestart(){
         super.onRestart();
         if (on.isChecked()){
@@ -162,5 +146,12 @@ public class Menu  extends Activity {
         }
     }
 
+
+    public void onStop(){
+        super.onStop();
+        if (stopmusic) {
+            musique.pause();
+        }
+    }
 
 }

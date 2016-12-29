@@ -5,9 +5,9 @@
     density="xxhdpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="14524459451219"
+    timestamp="13546243087059"
     token="-525817856181401003"
-    verifier="COMPATIBLE" >
+    verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
@@ -27,15 +27,22 @@
         type="RESOURCES" />
 
     <build
-        timestamp="13789044127312"
+        timestamp="9244994361013"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="/home/roza/Documents/android/projet/Puzzle-Attack/P8_Sokoban/app/build/outputs/apk/app-debug.apk"
             type="MAIN" />
     </build>
     <build
-        timestamp="14524459451219"
-        verifier="COMPATIBLE" >
+        timestamp="13091303148697"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/home/roza/Documents/android/projet/Puzzle-Attack/P8_Sokoban/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1/classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="13546243087059"
+        verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="/home/roza/Documents/android/projet/Puzzle-Attack/P8_Sokoban/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
             type="RESOURCES" />

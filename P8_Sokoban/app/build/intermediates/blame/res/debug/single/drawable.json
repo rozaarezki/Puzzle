@@ -4,12 +4,20 @@
         "source": "/home/roza/Documents/android/projet/Puzzle-Attack/P8_Sokoban/app/src/main/res/drawable/block.png"
     },
     {
+        "merged": "/home/roza/Documents/android/projet/Puzzle-Attack/P8_Sokoban/app/build/intermediates/res/merged/debug/drawable/vert.png",
+        "source": "/home/roza/Documents/android/projet/Puzzle-Attack/P8_Sokoban/app/src/main/res/drawable/vert.png"
+    },
+    {
         "merged": "/home/roza/Documents/android/projet/Puzzle-Attack/P8_Sokoban/app/build/intermediates/res/merged/debug/drawable/up.png",
         "source": "/home/roza/Documents/android/projet/Puzzle-Attack/P8_Sokoban/app/src/main/res/drawable/up.png"
     },
     {
         "merged": "/home/roza/Documents/android/projet/Puzzle-Attack/P8_Sokoban/app/build/intermediates/res/merged/debug/drawable/zone_02.png",
         "source": "/home/roza/Documents/android/projet/Puzzle-Attack/P8_Sokoban/app/src/main/res/drawable/zone_02.png"
+    },
+    {
+        "merged": "/home/roza/Documents/android/projet/Puzzle-Attack/P8_Sokoban/app/build/intermediates/res/merged/debug/drawable/fond.jpeg",
+        "source": "/home/roza/Documents/android/projet/Puzzle-Attack/P8_Sokoban/app/src/main/res/drawable/fond.jpeg"
     },
     {
         "merged": "/home/roza/Documents/android/projet/Puzzle-Attack/P8_Sokoban/app/build/intermediates/res/merged/debug/drawable/left.png",
@@ -22,6 +30,14 @@
     {
         "merged": "/home/roza/Documents/android/projet/Puzzle-Attack/P8_Sokoban/app/build/intermediates/res/merged/debug/drawable/mybutton.xml",
         "source": "/home/roza/Documents/android/projet/Puzzle-Attack/P8_Sokoban/app/src/main/res/drawable/mybutton.xml"
+    },
+    {
+        "merged": "/home/roza/Documents/android/projet/Puzzle-Attack/P8_Sokoban/app/build/intermediates/res/merged/debug/drawable/bleu.png",
+        "source": "/home/roza/Documents/android/projet/Puzzle-Attack/P8_Sokoban/app/src/main/res/drawable/bleu.png"
+    },
+    {
+        "merged": "/home/roza/Documents/android/projet/Puzzle-Attack/P8_Sokoban/app/build/intermediates/res/merged/debug/drawable/rouge.png",
+        "source": "/home/roza/Documents/android/projet/Puzzle-Attack/P8_Sokoban/app/src/main/res/drawable/rouge.png"
     },
     {
         "merged": "/home/roza/Documents/android/projet/Puzzle-Attack/P8_Sokoban/app/build/intermediates/res/merged/debug/drawable/diamant.png",
@@ -58,5 +74,13 @@
     {
         "merged": "/home/roza/Documents/android/projet/Puzzle-Attack/P8_Sokoban/app/build/intermediates/res/merged/debug/drawable/right.png",
         "source": "/home/roza/Documents/android/projet/Puzzle-Attack/P8_Sokoban/app/src/main/res/drawable/right.png"
+    },
+    {
+        "merged": "/home/roza/Documents/android/projet/Puzzle-Attack/P8_Sokoban/app/build/intermediates/res/merged/debug/drawable/vide1.png",
+        "source": "/home/roza/Documents/android/projet/Puzzle-Attack/P8_Sokoban/app/src/main/res/drawable/vide1.png"
+    },
+    {
+        "merged": "/home/roza/Documents/android/projet/Puzzle-Attack/P8_Sokoban/app/build/intermediates/res/merged/debug/drawable/orange.png",
+        "source": "/home/roza/Documents/android/projet/Puzzle-Attack/P8_Sokoban/app/src/main/res/drawable/orange.png"
     }
 ]

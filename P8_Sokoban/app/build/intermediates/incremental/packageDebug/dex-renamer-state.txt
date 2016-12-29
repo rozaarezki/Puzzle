@@ -1,4 +1,4 @@
-#Thu Dec 29 01:34:25 CET 2016
+#Thu Dec 29 13:43:14 CET 2016
 base.0=/home/roza/Documents/android/projet/Puzzle-Attack/P8_Sokoban/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_13c85466cce98bdab591dc57717fdbd1b52e7046
 renamed.1=classes2.dex
 renamed.0=classes.dex
